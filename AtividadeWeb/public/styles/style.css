@@ -1,0 +1,83 @@
+body {
+    background-color: #08bff7;
+    font-family: cursive;
+    margin: 0;
+    padding: 143px;
+}
+
+h1 {
+    color: #0a0a0a;
+}
+#headerInsere{
+    color: rgb(145, 41, 128);
+}
+
+#nameHome{
+    background-color: #ffffff;
+}
+#nomeDoNome{
+background-color: aqua;
+}
+form {
+    background-color: #82a12c;
+    padding: 50px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(245, 8, 8, 0.1);
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+    color:darkblue;
+}
+
+#inputNameConsulta{
+    color: rgba(167, 80, 10, 0.219);
+    
+}
+
+input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+}
+
+button[type="submit"] {
+    background-color: #0b3cc2;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    margin-top: 7px;
+    float: right;
+
+
+}
+
+button[type="submit"]:hover {
+    background-color: #a07603;
+    
+}
+
+
+.success-message {
+    color: #b62419;
+}
+
+.btn {
+    background-color: #445b8d;
+    color: #f5c772;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 3px;
+}
+
+.btn:hover {
+    background-color: #d11717;
+}
+
